@@ -1,0 +1,14 @@
+Task 1:
+Write an 8086 program to check whether a given string is palindrome or not. If it is a palindrome, store ‘01h’ in RES or else ‘00h’.
+
+Input String: "wasitcatisaw"
+Output: RES = 01h
+
+Task2:
+Task 2
+Write an 8086 program to replace a substring S1 of a string S with “*” 
+
+Input: S = “BITSIOTLAB”, S1 = “IOT”
+Output: BITS*LAB
+Explanation:
+Change the substrings S[4,6 ] to string “*” modifies the string to "BITS*LAB"

@@ -1,0 +1,7 @@
+Task 1: 
+Take the above problem and modify the ALP such that instead of taking username and password in the .data section, we take it from the user.txt and pswd.txt file.
+
+The user.txt contains 10 character long username with 11th character being ‘$’ and pswd.txt contains 5 character long password with 6th character being ‘$’.
+
+Task 2: 
+Now modify the ALP in Task 1, such that the username and password can be of variable length with max number of characters being 20h (i.e. 32 in decimal). The username and password have to be picked from user.txt   and pswd.txt respectively.

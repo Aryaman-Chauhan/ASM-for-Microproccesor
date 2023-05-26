@@ -1,0 +1,3 @@
+Task 1: Print your full name in reverse diagonal order in white text with a black background. Use display mode 03H or Text VGA mode. 
+
+Task 2: Print the fibonacci sequence vertically where the nth term of the sequence must be repeated n times and must represent the nth term of the alphabet. Print the firstt 8 terms for convenience. Use the same specifications as above.

@@ -1,0 +1,9 @@
+Lab Task 1:
+Read data from console and write to file
+- Print line on screen asking "Enter your Name"
+- Give your name as input and save it in as a local variable
+- Create a new text file
+- Write your name to this file
+
+Lab task 2
+Take substring from 2 files and save it to third file
